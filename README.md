@@ -1,1 +1,2 @@
 # BookShelf_document
+BookShelfプロジェクトのドキュメント管理用リポジトリです。
